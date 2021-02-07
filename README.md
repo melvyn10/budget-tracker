@@ -2,7 +2,7 @@
 
 
 ## Project Description:
-This application is used as a Budget tracker with MongoDB, Node, Express, Horuku and MongoDB Atlas. The applications follows the MVC design pattern and also a PWA; use Node and MONFODB to query and route data in the app. The application is created with a Mongo database with a Mongoose schema and handle routes with Express.
+This application is used as a Budget tracker with MongoDB, Node, Express, Horuku and MongoDB Atlas. The applications follows the MVC design pattern and also PWA; use Node and MONFODB to query and route data in the app. The application is created with a Mongo database with a Mongoose schema and handle routes with Express.
 
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they will be able to populate the total when brought back online.
 Offline Functionality:
