@@ -50,7 +50,6 @@ Budget Tracker application URL: https://guarded-badlands-93879.herokuapp.com/
 ![Alt Text](https://github.com/melvyn10/Budget-Tracker/blob/main/public/Image/BudgetTracker1.png)
 
 
-![Alt Text](https://guarded-badlands-93879.herokuapp.com/)
 
 
 
